@@ -1,0 +1,86 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+  "name": "tinted-pi",
+  "vars": {
+    "cyan": "#52cbb0",
+    "blue": "#33b5e1",
+    "green": "#7cc844",
+    "red": "#ef5253",
+    "yellow": "#e4b51c",
+    "gray": "#667581",
+    "dimGray": "#586875",
+    "darkGray": "#222e38",
+    "accent": "#a363d5",
+    "selectedBg": "#85939e",
+    "userMsgBg": "#18262f",
+    "toolPendingBg": "#e66b2b",
+    "toolSuccessBg": "#7cc844",
+    "toolErrorBg": "#ef5253",
+    "customMsgBg": "#33b5e1"
+  },
+  "colors": {
+    "accent": "accent",
+    "border": "blue",
+    "borderAccent": "cyan",
+    "borderMuted": "darkGray",
+    "success": "green",
+    "error": "red",
+    "warning": "yellow",
+    "muted": "gray",
+    "dim": "dimGray",
+    "text": "",
+    "thinkingText": "gray",
+
+    "selectedBg": "selectedBg",
+    "userMessageBg": "userMsgBg",
+    "userMessageText": "",
+    "customMessageBg": "customMsgBg",
+    "customMessageText": "",
+    "customMessageLabel": "",
+    "toolPendingBg": "toolPendingBg",
+    "toolSuccessBg": "toolSuccessBg",
+    "toolErrorBg": "toolErrorBg",
+    "toolTitle": "",
+    "toolOutput": "gray",
+
+    "mdHeading": "green",
+    "mdLink": "cyan",
+    "mdLinkUrl": "dimGray",
+    "mdCode": "accent",
+    "mdCodeBlock": "green",
+    "mdCodeBlockBorder": "gray",
+    "mdQuote": "gray",
+    "mdQuoteBorder": "gray",
+    "mdHr": "gray",
+    "mdListBullet": "accent",
+
+    "toolDiffAdded": "green",
+    "toolDiffRemoved": "red",
+    "toolDiffContext": "gray",
+
+    "syntaxComment": "gray",
+    "syntaxKeyword": "accent",
+    "syntaxFunction": "yellow",
+    "syntaxVariable": "red",
+    "syntaxString": "green",
+    "syntaxNumber": "#e66b2b",
+    "syntaxType": "blue",
+    "syntaxOperator": "accent",
+    "syntaxPunctuation": "#a6afb8",
+
+    "thinkingOff": "darkGray",
+    "thinkingMinimal": "cyan",
+    "thinkingLow": "green",
+    "thinkingMedium": "yellow",
+    "thinkingHigh": "#e66b2b",
+    "thinkingXhigh": "red",
+
+    "bashMode": "green"
+  },
+  "export": {
+    "pageBg": "#18262f",
+    "cardBg": "dimGray",
+    "infoBg": "#85939e"
+  }
+}
+

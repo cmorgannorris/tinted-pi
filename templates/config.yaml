@@ -1,0 +1,11 @@
+README.md:
+  filename: 'README.md'
+  supported-systems: [list]
+
+base16.json:
+  filename: themes/{{ scheme-system }}-{{ scheme-slug }}.json
+  supported-systems: [base16]
+
+base24.json:
+  filename: themes/{{ scheme-system }}-{{ scheme-slug }}.json
+  supported-systems: [base24]

@@ -1,6 +1,6 @@
 README.md:
   filename: 'README.md'
-  supported-systems: [list]
+  supported-systems: [base16, base24]
 
 base16.json:
   filename: themes/{{ scheme-system }}-{{ scheme-slug }}.json

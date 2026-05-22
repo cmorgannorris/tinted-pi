@@ -11,12 +11,12 @@
     "dimGray": "#423625",
     "darkGray": "#321200",
     "accent": "#96363c",
-    "selectedBg": "#5c503c",
-    "userMsgBg": "#191919",
-    "toolPendingBg": "#a9810b",
-    "toolSuccessBg": "#55f237",
-    "toolErrorBg": "#ed5c20",
-    "customMsgBg": "#85cfec"
+    "selectedBg": "#321200",
+    "userMsgBg": "#321200",
+    "toolPendingBg": "#442728",
+    "toolSuccessBg": "#282728",
+    "toolErrorBg": "#442828",
+    "customMsgBg": "#322828"
   },
   "colors": {
     "accent": "accent",

@@ -7,16 +7,16 @@
     "green": "#a6e3a1",
     "red": "#f38ba8",
     "yellow": "#f9e2af",
-    "gray": "#6c7086",
-    "dimGray": "#45475a",
-    "darkGray": "#313244",
+    "gray": "#45475a",
+    "dimGray": "#313244",
+    "darkGray": "#181825",
     "accent": "#cba6f7",
-    "selectedBg": "#a6adc8",
-    "userMsgBg": "#1e1e2e",
-    "toolPendingBg": "#fab387",
-    "toolSuccessBg": "#a6e3a1",
-    "toolErrorBg": "#eba0ac",
-    "customMsgBg": "#74c7ec"
+    "selectedBg": "#181825",
+    "userMsgBg": "#181825",
+    "toolPendingBg": "#a68b28",
+    "toolSuccessBg": "#288b28",
+    "toolErrorBg": "#a62828",
+    "customMsgBg": "#182828"
   },
   "colors": {
     "accent": "accent",
@@ -80,7 +80,7 @@
   "export": {
     "pageBg": "#1e1e2e",
     "cardBg": "dimGray",
-    "infoBg": "#a6adc8"
+    "infoBg": "#585b70"
   }
 }
 

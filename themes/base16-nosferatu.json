@@ -13,8 +13,8 @@
     "accent": "#ff79c6",
     "selectedBg": "#363447",
     "userMsgBg": "#363447",
-    "toolPendingBg": "#505528",
-    "toolSuccessBg": "#285528",
+    "toolPendingBg": "#36",
+    "toolSuccessBg": "#505528",
     "toolErrorBg": "#502828",
     "customMsgBg": "#362828"
   },
